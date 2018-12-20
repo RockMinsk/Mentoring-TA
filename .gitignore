@@ -1,0 +1,7 @@
+# Log files
+*.log
+
+# System files and folders
+*.db
+target/
+bin/
