@@ -16,7 +16,7 @@
     "dependencies": {
         "chai": "^4.2.0",
         "del": "^3.0.0",
-        "gulp": "^3.9.1",
+        "gulp": "^4.0.2",
         "gulp-istanbul": "^1.1.3",
         "gulp-jasmine": "^2.3.0",
         "jasmine-reporters": "^2.3.2",
